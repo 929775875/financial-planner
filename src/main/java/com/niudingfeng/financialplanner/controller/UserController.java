@@ -31,7 +31,7 @@ import java.util.List;
 public class UserController {
     @Autowired
     private UserService userService;
-
+//
     @RequestMapping("users")
     public List<User> getUser() {
         return userService.selectList(null);
