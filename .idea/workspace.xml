@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5537c94-2d84-4eac-94f9-f08cccf7c5d5" name="Default" comment="myfirst">
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_alibaba_druid_1_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_1_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_1_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_1_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_1_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_32.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_16_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_test_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/mvnw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/mvnw.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/finnancial-planner-app-service.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/FinancialPlannerApplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/annotation/IgnoreSecurity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/aspect/ExceptionAspect.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/aspect/SecurityAspect.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/authorization/DefaultTokenManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/authorization/TokenManager.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/config/Config.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/config/DruidConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/config/MyMvcConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/controller" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/entity/User.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/exception/FileUploadTypeException.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/exception/TokenException.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/generator/CodeGeneration.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/interceptor/FileTypeInterceptor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/mapper/UserMapper.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/pojo/HttpClientResult.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/response/Response.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/service/UserService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/serviceImpl/UserServiceImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/CodecUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/CollectionUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/Constants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/HttpClientUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/StringUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/WebContextUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/fileutil/FileNameUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/fileutil/FileUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/java/com/niudingfeng/financialplanner/utils/fileutil/UUIDUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/resources/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/main/resources/mappers/UserMapper.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/src/test/java/com/niudingfeng/financialplanner/FinancialPlannerApplicationTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/META-INF/spring-configuration-metadata.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/FinancialPlannerApplication.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/annotation/IgnoreSecurity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/aspect/ExceptionAspect.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/aspect/SecurityAspect.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/authorization/DefaultTokenManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/authorization/TokenManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/config/Config.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/config/DruidConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/config/MyMvcConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/controller/FileUploadController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/controller/HelloWorldController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/controller/UserController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/entity/User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/exception/FileUploadTypeException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/exception/TokenException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/generator/CodeGeneration.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/interceptor/FileTypeInterceptor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/mapper/UserMapper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/pojo/HttpClientResult.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/response/Response$Meta.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/response/Response.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/service/UserService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/serviceImpl/UserServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/CodecUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/CollectionUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/Constants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/HttpClientUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/StringUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/WebContextUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/fileutil/FileNameUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/fileutil/FileUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/com/niudingfeng/financialplanner/utils/fileutil/UUIDUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/classes/mappers/UserMapper.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../niudingfeng-workplace/target/test-classes/com/niudingfeng/financialplanner/FinancialPlannerApplicationTests.class" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/out/" />
+    <ignored path="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../niudingfeng-workplace" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/FinancialPlannerApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="financial-planner" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="financial-planner" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="financial-planner" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="62" />
+    <option name="y" value="70" />
+    <option name="width" value="1704" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="financial-planner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="financial-planner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="financial-planner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="financial-planner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="financial-planner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="financial-planner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="financial-planner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="financial-planner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\niudingfeng-workplace" />
+      <recent name="F:\niudingfeng-workplace\financial-planner\src\main\resources" />
+      <recent name="F:\niudingfeng-workplace\financial-planner\src\main\java\com\niudingfeng\financialplanner" />
+      <recent name="F:\niudingfeng-workplace\financial-planner\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="FinancialPlannerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.niudingfeng.financialplanner.FinancialPlannerApplication" />
+      <module name="financial-planner" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5537c94-2d84-4eac-94f9-f08cccf7c5d5" name="Default" comment="" />
+      <created>1535334858255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535334858255</updated>
+      <workItem from="1535334861394" duration="1701000" />
+    </task>
+    <task id="LOCAL-00001" summary="myfirst">
+      <created>1535335380538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535335380538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="myfirst">
+      <created>1535336363526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535336363526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1701000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="70" width="1704" height="867" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.50243306" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24452555" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24695864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.4975669" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myfirst" />
+    <option name="LAST_COMMIT_MESSAGE" value="myfirst" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/pojo/HttpClientResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/utils/WebContextUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/interceptor/FileTypeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/config/MyMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/response/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/exception/FileUploadTypeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/resources/mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/FinancialPlannerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="140" column="10" lean-forward="false" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../niudingfeng-workplace/financial-planner/src/main/java/com/niudingfeng/financialplanner/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
